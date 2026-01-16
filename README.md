@@ -1,4 +1,5 @@
 # Dashboard Walmartr BI
 
-[walmart]https://app.powerbi.com/view?r=eyJrIjoiZDBjMjFiYTUtZjBlNS00ODc4LWJkNjMtNzc5OWI4ODRkZjRlIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9
+https://app.powerbi.com/view?r=eyJrIjoiZDBjMjFiYTUtZjBlNS00ODc4LWJkNjMtNzc5OWI4ODRkZjRlIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9
+
 
