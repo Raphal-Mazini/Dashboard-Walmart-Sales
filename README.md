@@ -1,19 +1,4 @@
-# 🎈 Blank app template
+# Dashboard Walmartr BI
 
-A simple Streamlit app template for you to modify!
+[walmart]https://app.powerbi.com/view?r=eyJrIjoiZDBjMjFiYTUtZjBlNS00ODc4LWJkNjMtNzc5OWI4ODRkZjRlIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
-
-### How to run it on your own machine
-
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
